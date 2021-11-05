@@ -33,7 +33,7 @@ The game is executable on a linux system by following these steps, but it is imp
 
 You must download the pacman folder. For that click on the Github logo below.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="drawing" width="40" heigth="40"/>](https://github.com/arthurpellegrini/pac-man-project)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="drawing" width="40" heigth="40"/>](https://github.com/arthurpellegrini/pac-man)
 
 Then go to the green "code" button and select "download zip".
 
